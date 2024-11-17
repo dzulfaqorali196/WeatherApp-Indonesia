@@ -23,7 +23,7 @@
 
 ## 🚀 Demo
 
-[https://weather-app-indonesia.vercel.app/](https://weather-dashboard-indonesia.vercel.app)
+[link demo](https://weather-app-indonesia.vercel.app/)
 
 ## 💻 Tech Stack
 
