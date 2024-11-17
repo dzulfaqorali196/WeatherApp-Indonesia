@@ -23,7 +23,7 @@
 
 ## 🚀 Demo
 
-[Link Demo Aplikasi](https://weather-dashboard-indonesia.vercel.app)
+[https://weather-app-indonesia.vercel.app/](https://weather-dashboard-indonesia.vercel.app)
 
 ## 💻 Tech Stack
 
@@ -39,7 +39,7 @@
 
 1. Clone repository
 ```bash
-git clone https://github.com/dzulfaqorali196/weather-dashboard.git
+git clone https://github.com/dzulfaqorali196/WeatherApp-Indonesia.git
 ```
 
 2. Install dependencies
